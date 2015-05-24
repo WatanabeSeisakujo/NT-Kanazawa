@@ -9,9 +9,11 @@ https://docs.google.com/spreadsheets/d/1lnOwaE82S8GwtGQyPwDOeSf8GXj8Hnv-BYAARQBL
 
 ## 展示物
 
-### fcnt
+* 簡易ヘッドホンアンプキット(これは僕の作品ではないです。(fcnt))
 
-* 簡易ヘッドホンアンプキット
+### fcnt
+・手のひらサイズのFM音源再生ボード
+・RaspberryPi用のFM音源ボード(プロトタイプ)
 
 ### daiquiri99
 
