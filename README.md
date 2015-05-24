@@ -12,8 +12,9 @@ https://docs.google.com/spreadsheets/d/1lnOwaE82S8GwtGQyPwDOeSf8GXj8Hnv-BYAARQBL
 * 簡易ヘッドホンアンプキット(これは僕の作品ではないです。(fcnt))
 
 ### fcnt
-・手のひらサイズのFM音源再生ボード
-・RaspberryPi用のFM音源ボード(プロトタイプ)
+* 手のひらサイズのFM音源再生ボード
+
+* RaspberryPi用のFM音源ボード(プロトタイプ)
 
 ### daiquiri99
 
