@@ -17,6 +17,9 @@ https://docs.google.com/spreadsheets/d/1lnOwaE82S8GwtGQyPwDOeSf8GXj8Hnv-BYAARQBL
 * RaspberryPi用のFM音源ボード(プロトタイプ)
 
 ### daiquiri99
+* 低温調理用AC制御コントローラ
+
+* PS2bluetoothアダプター or PS2bluetooth化改造済HHKLite
 
 ### dictav
 
